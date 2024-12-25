@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/marast/Documentos/1UNIVALLE/6 SEMESTRE/PARALELAS/PROYECTOIPD/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/marast/Descargas/proyecto/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
